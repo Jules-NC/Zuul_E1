@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=i\ j
+comment0.target=void\ interract(Player,\ Pnj)
+comment0.text=\n\ Methode\ qui\ utilise\ le\ player\ et\ le\ pnj\ pour\ faire\ des\ choses\ avec.\ Comportement\ peu\ changer.\n
+numComments=1

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameEngine()
+comment0.text=\n\ Constructeur\ de\ GameEngine().\ qui\ cree\ un\ objet\ GameEngine.\n
+comment1.params=pUserInterface
+comment1.target=void\ setGUI(UserInterface)
+comment1.text=\n\ @param\ uI\ l'UserInterface\ qui\ sera\ liee\ a\ l'objet\ courant.\n
+comment2.params=
+comment2.target=UserInterface\ getGui()
+comment2.text=\n\ @return\ l'userInterface\n
+comment3.params=
+comment3.target=void\ printWelcome()
+comment3.text=\n\ Affiche\ le\ message\ d'into\ du\ jeu.\n
+comment4.params=
+comment4.target=void\ createRooms()
+comment4.text=\n\ Cree\ toutes\ les\ rooms,\ les\ lies\ ensemble\ et\ initialise\ les\ objets\ contenues\ dans\ celles\ ci.\n
+comment5.params=pInput
+comment5.target=void\ interpretCommand(java.lang.String)
+comment5.text=\n\ @param\ commandLine\ une\ String\ @see\ String\ correspondant\ a\ la\ commande\ voulue.\n\ \n\ Verifie\ que\ la\ String\ passee\ en\ parametre\ corresponde\ a\ un\ premier\ mot\ \n\ de\ commande\ valide\ et\ execute\ une\ commande\ en\ fonction\ de\ cette\ commande\n
+comment6.params=
+comment6.target=void\ endGame()
+comment6.text=\n\ Affiche\ un\ message\ de\ bienvenue\ de\ partance\ quand\ le\ jeu\ est\ quitte.\n
+numComments=7

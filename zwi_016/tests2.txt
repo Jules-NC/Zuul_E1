@@ -1,0 +1,12 @@
+go north
+back
+go south
+eat
+look
+help
+back
+bag
+back
+back
+take epee
+take pistolet

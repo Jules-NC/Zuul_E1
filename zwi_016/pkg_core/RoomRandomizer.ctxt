@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=rs
+comment0.target=void\ addAllowedRoom(Room[])
+comment0.text=\n\ permet\ d'ajouter\ autant\ de\ rooms\ qu'on\ veut\ pour\ la\ al\u00E9a\ room\n\ @param\ autant\ de\ rooms\ qu'on\ veur\n
+comment1.params=
+comment1.target=Room\ findRandomRoom()
+comment1.text=\n\ @return\ une\ room\ random\ parmis\ celles\ ajout\u00E9es\n\ cool\n
+numComments=2

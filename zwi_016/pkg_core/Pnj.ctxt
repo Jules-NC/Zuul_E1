@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Pnj(Room)
+comment1.params=
+comment1.target=void\ goRoom()
+comment1.text=\n\ @deprecated\n\ ne\ sert\ \u00E0\ rien\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ @return\ le\ nom\ de\ du\ pnj\n
+comment3.params=r
+comment3.target=void\ setRoom(Room)
+comment3.text=\n\ @param\ r\ le\ nom\ de\ la\ room\n\ set\ la\ room\ demand\u00E9e,\ sauf\ si\ elle\ n'existe\ pas\n
+comment4.params=
+comment4.target=Room\ getRoom()
+comment4.text=\n\ @return\ la\ roo\ courrante\n
+comment5.params=c
+comment5.target=void\ setComp(Comp)
+comment5.text=\n\ @param\ le\ comportement\ du\ pnj\n\ set\ le\ comp\ du\ pnj\n
+comment6.params=i\ j
+comment6.target=void\ interract(Player,\ Pnj)
+comment6.text=\n\ @param\ le\ player\ i\ et\ le\ pnj\ j\ demand\u00E9s\n\ methode\ principele\ permettant\ d'interragir\n
+numComments=7

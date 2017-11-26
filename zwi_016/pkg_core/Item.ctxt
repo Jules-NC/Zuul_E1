@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nom\ poids\ descript
+comment0.target=Item(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\n\ @param\ nom\ une\ String\ correspondant\ au\ nom\ de\ l'objet.\n\ @param\ poids\ un\ int\ correspondant\ au\ poids\ de\ l'objet.\n\ @param\ descript\ une\ String\ correspondant\ \u00E0\ la\ description\ de\ l'objet.\n\ \n\ Cree\ un\ item\ en\ fonction\ des\ parametres.\n
+comment1.params=p
+comment1.target=void\ setPlayer(Player)
+comment1.text=\n\ assigne\ un\ item\ \u00E0\ un\ player\n
+comment2.params=
+comment2.target=java.lang.String\ use()
+comment2.text=\n\ @return\ la\ string\ d'utilisation\ d'apr\u00E8s\n\ en\ fait\ ca\ sert\ \u00E0\ rien\ ici\n
+comment3.params=
+comment3.target=java.lang.String\ charge()
+comment3.text=\n\ @return\ une\ String\ lambda\ nulle\n\ ne\ sert\ \u00E0\ rien\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\n\ @return\ une\ String\ contenant\ le\ nom\ de\ l'objet\ courant.\n
+comment5.params=
+comment5.target=int\ getWeight()
+comment5.text=\n\ return\ un\ int\ contenant\ le\ poids\ de\ l'objet\ courant.\n
+comment6.params=
+comment6.target=java.lang.String\ getDescription()
+comment6.text=\n\ @return\ une\ String\ contenant\ la\ description\ de\ l'objet\ courant.\n
+comment7.params=
+comment7.target=java.lang.String\ getLongDescription()
+comment7.text=\n\ @return\ une\ String\ contenant\ le\ poids,\ la\ descriotion\ et\ le\ nom\ de\ l'objet.\n
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TransporterRoom()
+comment0.text=\n\ cr\u00E9e\ une\ transpoeter\ room\n
+comment1.params=r
+comment1.target=void\ setAleaRoom(Room)
+comment1.text=\n\ set\ une\ room\ alea\n
+comment2.params=direction
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\n\ @return\ uen\ room\ aleatoire\ parmis\ les\ exits\ mises\ dans\ RoomRandomizer\n\ @see\ RoomRandomizer\n
+numComments=3
